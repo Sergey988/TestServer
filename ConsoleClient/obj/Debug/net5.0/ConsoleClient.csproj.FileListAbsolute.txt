@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Server\Test\ConsoleClient\bin\Debug\net5.0\ConsoleClient.exe
+C:\Users\User\source\repos\Server\Test\ConsoleClient\bin\Debug\net5.0\ConsoleClient.deps.json
+C:\Users\User\source\repos\Server\Test\ConsoleClient\bin\Debug\net5.0\ConsoleClient.runtimeconfig.json
+C:\Users\User\source\repos\Server\Test\ConsoleClient\bin\Debug\net5.0\ConsoleClient.runtimeconfig.dev.json
+C:\Users\User\source\repos\Server\Test\ConsoleClient\bin\Debug\net5.0\ConsoleClient.dll
+C:\Users\User\source\repos\Server\Test\ConsoleClient\bin\Debug\net5.0\ref\ConsoleClient.dll
+C:\Users\User\source\repos\Server\Test\ConsoleClient\bin\Debug\net5.0\ConsoleClient.pdb
+C:\Users\User\source\repos\Server\Test\ConsoleClient\obj\Debug\net5.0\ConsoleClient.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Server\Test\ConsoleClient\obj\Debug\net5.0\ConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Server\Test\ConsoleClient\obj\Debug\net5.0\ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Server\Test\ConsoleClient\obj\Debug\net5.0\ConsoleClient.AssemblyInfo.cs
+C:\Users\User\source\repos\Server\Test\ConsoleClient\obj\Debug\net5.0\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Server\Test\ConsoleClient\obj\Debug\net5.0\ConsoleClient.dll
+C:\Users\User\source\repos\Server\Test\ConsoleClient\obj\Debug\net5.0\ref\ConsoleClient.dll
+C:\Users\User\source\repos\Server\Test\ConsoleClient\obj\Debug\net5.0\ConsoleClient.pdb
+C:\Users\User\source\repos\Server\Test\ConsoleClient\obj\Debug\net5.0\ConsoleClient.genruntimeconfig.cache

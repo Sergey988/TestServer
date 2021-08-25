@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Server\Test\ConsoleServer\bin\Debug\net5.0\ConsoleServer.exe
+C:\Users\User\source\repos\Server\Test\ConsoleServer\bin\Debug\net5.0\ConsoleServer.deps.json
+C:\Users\User\source\repos\Server\Test\ConsoleServer\bin\Debug\net5.0\ConsoleServer.runtimeconfig.json
+C:\Users\User\source\repos\Server\Test\ConsoleServer\bin\Debug\net5.0\ConsoleServer.runtimeconfig.dev.json
+C:\Users\User\source\repos\Server\Test\ConsoleServer\bin\Debug\net5.0\ConsoleServer.dll
+C:\Users\User\source\repos\Server\Test\ConsoleServer\bin\Debug\net5.0\ref\ConsoleServer.dll
+C:\Users\User\source\repos\Server\Test\ConsoleServer\bin\Debug\net5.0\ConsoleServer.pdb
+C:\Users\User\source\repos\Server\Test\ConsoleServer\obj\Debug\net5.0\ConsoleServer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Server\Test\ConsoleServer\obj\Debug\net5.0\ConsoleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Server\Test\ConsoleServer\obj\Debug\net5.0\ConsoleServer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Server\Test\ConsoleServer\obj\Debug\net5.0\ConsoleServer.AssemblyInfo.cs
+C:\Users\User\source\repos\Server\Test\ConsoleServer\obj\Debug\net5.0\ConsoleServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Server\Test\ConsoleServer\obj\Debug\net5.0\ConsoleServer.dll
+C:\Users\User\source\repos\Server\Test\ConsoleServer\obj\Debug\net5.0\ref\ConsoleServer.dll
+C:\Users\User\source\repos\Server\Test\ConsoleServer\obj\Debug\net5.0\ConsoleServer.pdb
+C:\Users\User\source\repos\Server\Test\ConsoleServer\obj\Debug\net5.0\ConsoleServer.genruntimeconfig.cache
