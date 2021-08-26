@@ -46,28 +46,29 @@ namespace ConsoleServer
                         bytes = stream.Read(data, 0, data.Length);
                         builder.Append(Encoding.Unicode.GetString(data, 0, bytes));
                     }
-                    while (stream.DataAvailable);
 
-                    isNumerical = int.TryParse(builder.ToString(), out number);
-                    if(isNumerical )
-                    {
-                        number = int.Parse(builder.ToString());
-                        sumNumbers += number;
-                        message = "The sum of all numbers entered during the session: " + sumNumbers.ToString() + "\n";
-                    } 
-                    else if ((String.Compare(builder.ToString(), commandList)) == 0)
-                    {
-                        message = "";
-                        foreach (ClientObject item in UsersList.users)
-                        {
-                            message += "User IP: " + item.ipUser + " sum: " + item.sumNumbers + "\n";
-                        }
-                    }
-                    else
-                    {
-                        message = "Error. Enter a number or one of the commands.";
-                    }
+                    while (stream.DataAvailable);
                     
+                        isNumerical = int.TryParse(builder.ToString(), out number);
+                        if (isNumerical)
+                        {
+                            number = int.Parse(builder.ToString());
+                            sumNumbers += number;
+                            message = "The sum of all numbers entered during the session: " + sumNumbers.ToString() + "\n";
+                        }
+                        else if ((String.Compare(builder.ToString(), commandList)) == 0)
+                        {
+                            message = "";
+                            foreach (ClientObject item in UsersList.users)
+                            {
+                                message += "User IP: " + item.ipUser + " sum: " + item.sumNumbers + "\n";
+                            }
+                        }
+                        else
+                        {
+                            message = "Error. Enter a number or one of the commands.";
+                        }
+
                     data = Encoding.Unicode.GetBytes(message);
                     stream.Write(data, 0, data.Length);
                 }
